@@ -1,0 +1,14 @@
+name: bioinfo-skill2-statistics-qc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - biopython=1.83
+  - requests=2.31
+  - matplotlib=3.8
+  - r-base=4.3
+  - r-ggplot2=3.5.0
+  - r-irkernel
+  - jupyter
+  - ipykernel
